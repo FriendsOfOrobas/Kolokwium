@@ -1,0 +1,69 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"f94d4b48-deda-4d99-b9e0-15f171cdd613\" name=\"Changes\" comment=\"\">\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Square.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Square.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/Tetris.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/Tetris.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"MarkdownSettingsMigration\">\n    <option name=\"stateVersion\" value=\"1\" />\n  </component>\n  <component name=\"ProjectId\" id=\"2KPLxEaGqMGqyHFmdl0kKQrG3P3\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"WebServerToolWindowFactoryState\": \"false\",\n    \"last_opened_file_path\": \"/home/orobas/Projects/Java/SnakeAmination\",\n    \"node.js.detected.package.eslint\": \"true\",\n    \"node.js.detected.package.tslint\": \"true\",\n    \"node.js.selected.package.eslint\": \"(autodetect)\",\n    \"node.js.selected.package.tslint\": \"(autodetect)\",\n    \"vue.rearranger.settings.migration\": \"true\"\n  }\n}]]></component>\n  <component name=\"RunManager\">\n    <configuration name=\"Tetris\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"Tetris\" />\n      <module name=\"Kolokwium\" />\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.Tetris\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"f94d4b48-deda-4d99-b9e0-15f171cdd613\" name=\"Changes\" comment=\"\" />\n      <created>1673871519423</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1673871519423</updated>\n      <workItem from=\"1673871520136\" duration=\"2191000\" />\n      <workItem from=\"1673873742622\" duration=\"121000\" />\n      <workItem from=\"1673873879764\" duration=\"2908000\" />\n    </task>\n    <servers />\n  </component>\n  <component name=\"TypeScriptGeneratedFilesManager\">\n    <option name=\"version\" value=\"3\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 999a099ac93e7c1f22747e8cef230ca1046d9436)
++++ b/.idea/workspace.xml	(date 1673887368161)
+@@ -4,10 +4,8 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="f94d4b48-deda-4d99-b9e0-15f171cdd613" name="Changes" comment="">
++    <list default="true" id="f94d4b48-deda-4d99-b9e0-15f171cdd613" name="Changes" comment="done">
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -38,7 +36,7 @@
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+     "WebServerToolWindowFactoryState": "false",
+-    "last_opened_file_path": "/home/orobas/Projects/Java/SnakeAmination",
++    "last_opened_file_path": "/home/orobas/Projects/Java/lab5",
+     "node.js.detected.package.eslint": "true",
+     "node.js.detected.package.tslint": "true",
+     "node.js.selected.package.eslint": "(autodetect)",
+@@ -70,11 +68,35 @@
+       <updated>1673871519423</updated>
+       <workItem from="1673871520136" duration="2191000" />
+       <workItem from="1673873742622" duration="121000" />
+-      <workItem from="1673873879764" duration="2908000" />
++      <workItem from="1673873879764" duration="2969000" />
++      <workItem from="1673887358966" duration="10000" />
++    </task>
++    <task id="LOCAL-00001" summary="done">
++      <created>1673876846181</created>
++      <option name="number" value="00001" />
++      <option name="presentableId" value="LOCAL-00001" />
++      <option name="project" value="LOCAL" />
++      <updated>1673876846181</updated>
+     </task>
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="TypeScriptGeneratedFilesManager">
+     <option name="version" value="3" />
+   </component>
++  <component name="Vcs.Log.Tabs.Properties">
++    <option name="TAB_STATES">
++      <map>
++        <entry key="MAIN">
++          <value>
++            <State />
++          </value>
++        </entry>
++      </map>
++    </option>
++  </component>
++  <component name="VcsManagerConfiguration">
++    <MESSAGE value="done" />
++    <option name="LAST_COMMIT_MESSAGE" value="done" />
++  </component>
+ </project>
+\ No newline at end of file

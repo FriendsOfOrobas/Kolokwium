@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f94d4b48-deda-4d99-b9e0-15f171cdd613" name="Changes" comment="">
+    <list default="true" id="f94d4b48-deda-4d99-b9e0-15f171cdd613" name="Changes" comment="done">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Tetris.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Tetris.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/home/orobas/Projects/Java/SnakeAmination",
+    "last_opened_file_path": "/home/orobas/Projects/Java/lab5",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -70,11 +68,35 @@
       <updated>1673871519423</updated>
       <workItem from="1673871520136" duration="2191000" />
       <workItem from="1673873742622" duration="121000" />
-      <workItem from="1673873879764" duration="2908000" />
+      <workItem from="1673873879764" duration="2969000" />
+      <workItem from="1673887358966" duration="10000" />
     </task>
+    <task id="LOCAL-00001" summary="done">
+      <created>1673876846181</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673876846181</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="done" />
+    <option name="LAST_COMMIT_MESSAGE" value="done" />
   </component>
 </project>
